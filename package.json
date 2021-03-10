@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-storage-access",
+  "version": "1.0.0",
+  "description": "Cordova Storage Access Plugin",
+  "cordova": {
+    "id": "cordova-plugin-storage-access",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petrenkodesign/cordova-plugin-storage-access"
+  },
+  "keywords": [
+    "cordova",
+    "storage"
+  ],
+  "author": "Alex Petrenko",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova-plugin-xml": "0.1.2"
+  }
+}
